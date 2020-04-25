@@ -53,8 +53,8 @@ uuid = "9fa8497b-333b-5362-9e8d-4d0656e87820"
 
 [[GPUCompiler]]
 deps = ["Cthulhu", "DataStructures", "InteractiveUtils", "LLVM", "Libdl", "TimerOutputs"]
-git-tree-sha1 = "65c397b882e334c2b84f098010e82767b3318faa"
-repo-rev = "master"
+git-tree-sha1 = "ce7145f1c69048ef95ad24dbc57f66e57d9452b9"
+repo-rev = "jps/abstract-emit-trap"
 repo-url = "https://github.com/JuliaGPU/GPUCompiler.jl.git"
 uuid = "61eb1bfa-7361-4325-ad38-22787b887f55"
 version = "0.1.0"
